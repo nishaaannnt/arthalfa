@@ -1,6 +1,6 @@
-const jwt = require("jsonwebtoken");
+// const jwt = require("jsonwebtoken");
 const dotenv = require("dotenv");
-const bcrypt = require("bcrypt");
+// const bcrypt = require("bcrypt");
 dotenv.config();
 
 // Login function
