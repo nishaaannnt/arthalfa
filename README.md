@@ -5,6 +5,8 @@ Task is completed as was asked. Due to Mumbai Rains that caused no electricity h
 
 Also, I was wondering if I should have created handler (which interacts with database) as well but as the number of APIs were less and I did't want to increase the number of files, I have added them in the controllers, which is also not a bad practise.
 
+For Routes and Deployed Links - [Doc Link](https://docs.google.com/document/d/1_fIgU-3c6tGIgYON4z8sZJ6Qtiqi_WOI5ASUsEnTU7U/edit?usp=sharing)
+
 What I have used - 
 1. bodyparser
 2. cors
