@@ -1,7 +1,7 @@
-# Task for Arthalfa - Nishant Dixit
+# Backend APIs Ecomm Arthalfa - Nishant Dixit
 
 ## A quick note
-Task is completed as was asked. Due to Mumbai Rains that caused no electricity here, it took a bit delay otherwise the task was of hardly 2 hours. I have learned backend from my previous internship at a startup so I have followed all those practices which I was taught :)
+Simple product routes and APIs
 
 **Note** - The server takes some time to spin up again.  So the first request takes longer.
 
